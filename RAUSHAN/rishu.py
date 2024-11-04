@@ -56,11 +56,11 @@ InlineKeyboardButton("❍ 𝐂ᴀᴍᴇʀᴀ 𝐇ᴀᴄᴋ ❍", url=f"https://t
               ],
               [
               InlineKeyboardButton("❍ 𝐂ʜᴀᴛ 𝐈ɴғᴏ ❍", url=f"https://t.me/CHAT_INFO_ROBOT"),
-InlineKeyboardButton("𝗠𝗢𝗩𝗜𝗘 𝗕𝗢𝗧", url=f"https://t.me/Rishu_movie_bot"),
+InlineKeyboardButton("❍ 𝐌ᴏᴠɪᴇ ʙᴏᴛ ❍", url=f"https://t.me/Rishu_movie_bot"),
 ],
 [
-InlineKeyboardButton("𝗙𝗢𝗡𝗧 𝗖𝗛𝗔𝗡𝗚𝗘𝗥", url=f"https://t.me/RishuXfrontXbot"),
-InlineKeyboardButton("𝗖𝗛𝗔𝗧 𝗚𝗣𝗧", url=f"https://t.me/Gpt_pro_robot"),
+InlineKeyboardButton("❍ 𝐅ᴏɴᴛ 𝐂ʜᴀɴɢᴇ ❍", url=f"https://t.me/RishuXfrontXbot"),
+InlineKeyboardButton("❍ 𝐂ʜᴀᴛ 𝐆ᴘᴛ ❍", url=f"https://t.me/Gpt_pro_robot"),
 ]               
             ]
         )
