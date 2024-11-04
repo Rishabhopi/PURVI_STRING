@@ -20,11 +20,14 @@ async def must_join_channel(bot: Client, msg: Message):
                 link = chat_info.invite_link
             try:
                 await msg.reply_photo(
-                    photo="https://envs.sh/Amn.jpg", caption=f"✦ » ғɪʀsᴛʟʏ ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴊᴏɪɴ ᴏᴜʀ ғᴀᴍɪʟʏ ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ [ ᴏғғɪᴄᴇ ]({link}). \n\nᴀғᴛᴇʀ ᴊᴏɪɴ ❖ /start ❖ ᴍᴇ ᴀɢᴀɪɴ !",
+                    photo="https://envs.sh/Amn.jpg", caption=f"» ғɪʀsᴛʟʏ ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴊᴏɪɴ ᴏᴜʀ ғᴀᴍɪʟʏ ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ᴏғғɪᴄᴇ . \n\nᴀғᴛᴇʀ ᴊᴏɪɴ sᴛᴀʀᴛ ᴍᴇ ᴀɢᴀɪɴ !",
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
                                 InlineKeyboardButton(" ᴏғғɪᴄᴇ ", url=link),
+                            ],
+                            [
+                                InlineKeyboardButton(" ᴏғғɪᴄᴇ ", url=https://t.me/UR_RISHU_143),
                             ]
                         ]
                     )
