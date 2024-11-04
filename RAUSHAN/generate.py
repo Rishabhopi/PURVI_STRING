@@ -34,18 +34,18 @@ import config
 
 
 
-ask_ques = "**☞︎︎︎ ᴄʜᴏᴏsᴇ ᴏɴᴇ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 𖤍 ✔️ **"
+ask_ques = "**☞︎︎︎𝐂ʜᴏᴏ𝐬ᴇ 𝐎ɴᴇ 𝐓ʜᴀᴛ 𝐖ʜɪᴄʜ 𝐖ᴀɴᴛ𝐬 𝐓ᴏ 𝐆ᴇɴᴇʀᴀᴛᴇ 𝐒ᴛʀɪɴɢ 𝐒ᴇᴄᴛɪᴏɴ𖤍 **"
 buttons_ques = [
     [
-        InlineKeyboardButton("▪️ᴘʏʀᴏɢʀᴀᴍ▪️", callback_data="pyrogram"),
-        InlineKeyboardButton("▪️ᴘʏʀᴏɢʀᴀᴍ ᴠ2▪️", callback_data="pyrogram"),
+        InlineKeyboardButton("❃𝐏ʏʀᴏɢʀᴀᴍ❃", callback_data="pyrogram"),
+        InlineKeyboardButton("❃𝐏ʏʀᴏɢʀᴀᴍ  𝐕2❃", callback_data="pyrogram"),
     ],
     [
-        InlineKeyboardButton("🔺ᴛᴇʟᴇᴛʜᴏɴ🔺", callback_data="telethon"),
+        InlineKeyboardButton("❃𝐓ᴇʟᴇᴛʜᴏɴ❃", callback_data="telethon"),
     ],
     [
-        InlineKeyboardButton("🔸ᴘʏʀᴏɢʀᴀᴍ ʙᴏᴛ🔸", callback_data="pyrogram_bot"),
-        InlineKeyboardButton("🔹ᴛᴇʟᴇᴛʜᴏɴ ʙᴏᴛ🔹", callback_data="telethon_bot"),
+        InlineKeyboardButton("❃𝐏ʏʀᴏɢʀᴀᴍ 𝐁ᴏᴛ❃", callback_data="pyrogram_bot"),
+        InlineKeyboardButton("❃𝐓ᴇʟᴇᴛʜᴏɴ 𝐁ᴏᴛ❃", callback_data="telethon_bot"),
     ],
 ]
 
