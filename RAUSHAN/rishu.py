@@ -44,14 +44,14 @@ async def start(bot: Client, msg: Message):
               ],
               [
               InlineKeyboardButton("❍ 𝐌ᴜ𝐬ɪᴄ 𝐁ᴏᴛ ❍", url=f"https://t.me/RishuXmusicXbot"),
-InlineKeyboardButton("𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://t.me/KhushiXchatbot"),
+InlineKeyboardButton("❍ 𝐂ʜᴀᴛ 𝐁ᴏᴛ ❍", url=f"https://t.me/KhushiXchatbot"),
 ],
 [
-InlineKeyboardButton("𝗦𝗧𝗥𝗜𝗡𝗚𝗕𝗢𝗧", url=f"https://t.me/RishuStringBot"),
-InlineKeyboardButton("𝗖𝗔𝗠𝗘𝗥𝗔 𝗛𝗔𝗖𝗞", url=f"https://t.me/RISHU_CAMERA_ROBOT"),
+InlineKeyboardButton("❍ 𝐒ᴛʀɪɴɢ 𝐁ᴏᴛ ❍", url=f"https://t.me/RishuStringBot"),
+InlineKeyboardButton("❍ 𝐂ᴀᴍᴇʀᴀ 𝐇ᴀᴄᴋ ❍", url=f"https://t.me/RISHU_CAMERA_ROBOT"),
 ],
 [
-              InlineKeyboardButton("𝗣𝗛𝗜𝗦𝗛𝗜𝗡𝗚 𝗕𝗢𝗧", url=f"https://t.me/Rishabh_hackbot"),
+              InlineKeyboardButton("❍ 𝐏ʜɪ𝐬ʜɪɴɢ 𝐁ᴏᴛ ❍", url=f"https://t.me/Rishabh_hackbot"),
               InlineKeyboardButton("𝗙𝗜𝗟𝗘 𝗦𝗛𝗔𝗥𝗜𝗡𝗚", url=f"https://t.me/Share_file_robot"),
               ],
               [
