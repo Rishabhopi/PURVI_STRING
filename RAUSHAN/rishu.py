@@ -55,7 +55,7 @@ InlineKeyboardButton("❍ 𝐂ᴀᴍᴇʀᴀ 𝐇ᴀᴄᴋ ❍", url=f"https://t
               InlineKeyboardButton("❍ 𝐅ɪʟᴇ 𝐒ʜᴀʀɪɴɢ ❍", url=f"https://t.me/Share_file_robot"),
               ],
               [
-              InlineKeyboardButton("𝗖𝗛𝗔𝗧 𝗜𝗡𝗙𝗢", url=f"https://t.me/CHAT_INFO_ROBOT"),
+              InlineKeyboardButton("❍ 𝐂ʜᴀᴛ 𝐈ɴғᴏ ❍", url=f"https://t.me/CHAT_INFO_ROBOT"),
 InlineKeyboardButton("𝗠𝗢𝗩𝗜𝗘 𝗕𝗢𝗧", url=f"https://t.me/Rishu_movie_bot"),
 ],
 [
