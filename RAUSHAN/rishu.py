@@ -22,7 +22,7 @@ async def start(bot: Client, msg: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="❍ 𝐆ᴇɴᴇʀᴀᴛᴇ 𝐒ᴛʀɪɴɢ ❍", url="generate")
+                    InlineKeyboardButton(text="❍ 𝐒ᴛʀɪɴɢ ❍", url="https://t.me/rishustringbot")
                 ],
                 [
                     InlineKeyboardButton("❍ 𝐒ᴜᴘᴘᴏʀᴛ ❍", url="https://t.me/Ur_support07"),
