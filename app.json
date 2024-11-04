@@ -1,5 +1,5 @@
 {
-  "name": "🧿𝐀𝐋𝐏𝐇𝐀 𝐒𝐓𝐑𝐈𝐍𝐆 𝐁𝐎𝐓🧿",
+  "name": "𝐒𝐓𝐑𝐈𝐍𝐆 𝐁𝐎𝐓",
   "description": "A Telegram Bot to generate Telethon and Pyrogram String Sessions.",
   "logo": "https://telegra.ph/file/c53d9a7df9dbaa5f4db05.jpg",
   "keywords": [
@@ -12,11 +12,7 @@
         "BOT_TOKEN": {
             "description": "Get this value from @BotFather",
             "required": true
-        },  
-        "MUST_JOIN": {
-            "description": "Username of a group or channel for which you want to set force sub.(without @)",
-            "required": true      
-        }, 
+        },
         "MONGO_URL": {
             "description": "mongo db url here",
             "required": true
