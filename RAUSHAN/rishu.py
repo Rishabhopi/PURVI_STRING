@@ -1,6 +1,5 @@
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
-from RAUSHAN import app
 import httpx 
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
