@@ -69,7 +69,7 @@ InlineKeyboardButton("𝗜𝗠𝗔𝗚𝗘 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗘𝗥"
     reply_markup = InlineKeyboardMarkup(buttons)
 
     await msg.reply_photo(
-        photo="https://envs.sh/bJh.jpg",
+        photo="https://envs.sh/Amn.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
